@@ -1,2 +1,2 @@
-# Analytics-Dashboard
+# Analytical-Dashboard
 European Sales Organization 
